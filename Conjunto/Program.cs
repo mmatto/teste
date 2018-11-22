@@ -17,6 +17,7 @@ namespace Conjunto
             double[] VetA;
             HashSet<int> alunosA = new HashSet<int>();
             Console.Write("O curso A possui quantos alunos? ");
+            Console.Write("O curso A possui quantos alunos? ");
             na = int.Parse(Console.ReadLine());
             VetA = new double[na];
             for (int i =0; i < na; i++)
